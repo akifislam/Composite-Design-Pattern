@@ -6,7 +6,7 @@ Akif Islam<br>
 Department of CSE, University of Rajshahi<br>
 iamakifislam@gmail.com<br><br><br>
 
-## Experiment 03
+## Experiment 04
 <p>Write a Java program to demonstrate the implementation of a composite design pattern by using an example with a building composed of generic housing structures.</p>
 
 ## Story of the Program
@@ -17,7 +17,7 @@ accidentally created this program with my own idea of Animal hierarchy. This des
 
 ## Class Diagram
 
-<img src='CompositePattern.drawio.png'>
+<img src='src/CompositePattern.drawio.png'>
 
 
 ## How to Run?
@@ -73,5 +73,5 @@ godCreatures.getSubordinates();
 
 ## Output
 
-<img src='Composite_Pattern_Output.png'>
+<img src='src/Composite_Pattern_Output.png'>
 
